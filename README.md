@@ -25,3 +25,4 @@ This drug script was made for WhiteoutRP, but I am releasing it to the public as
   -Everything else in there was made by me from scratch over the course of two days <3
 
 # Twitch : https://twitch.tv/draven4s
+# You can join my discord here: https://discord.gg/22z9p8u
