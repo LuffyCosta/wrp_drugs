@@ -14,3 +14,10 @@ This drug script was made for WhiteoutRP, but I am releasing it to the public as
 # About me
   I am a pretty new coder in the Fivem scene, but I've done some GameDev before, so I believe I have some experience to create some pretty good content. If you like the script here, I am streaming whenever I code, so you can follow me on Twitch @ https://twitch.tv/draven4s to show that you'd like similar content released publically!
 
+# Credits
+  -To the guy or guys(and gals if there were any) who made mythic notifications he's amazing
+  -To the people behing ESX, you're like the best <3
+  -Everything else in there was made by me from scratch over the course of two days <3
+
+
+# Twitch : https://twitch.tv/draven4s
